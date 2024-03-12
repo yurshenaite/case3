@@ -1,4 +1,4 @@
-# Case #3
+# Part of case-study #3
 # Developers: Khramchikhina A., Peshkov Y., Sanzhanova A., Yurshenaite A.
 #
 
